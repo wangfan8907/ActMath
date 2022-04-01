@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "dc980c8d30393277",
+    "type": "split",
+    "children": [
+      {
+        "id": "90b7b4b32cddfef4",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2045e6b9b99cd15c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a3d58eb35e02e77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee9f68c7534c3b17",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5b80f0c4d35a34db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "73da374d345e3c43",
+    "type": "split",
+    "children": [
+      {
+        "id": "c68f7b16225d34a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4047f4453eac45e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "90b7b4b32cddfef4",
+  "lastOpenFiles": [
+    "高等数学上/未命名.md",
+    "高等数学上/定积分及其性质.md",
+    "高等数学上/函数连续与极限.md",
+    "高等数学上/不定积分-计算.md",
+    "高等数学上/中值定理与微分性质.md",
+    "高等数学上/导数与微分.md",
+    "未命名.md",
+    "高等数学.md"
+  ]
+}
