@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "极限概念及其延生.md",
+            "file": "极限概念及其延伸.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "极限概念及其延生.md",
+                "file": "极限概念及其延伸.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
   },
   "active": "90b7b4b32cddfef4",
   "lastOpenFiles": [
-    "极限概念及其延生.md",
+    "极限概念及其延伸.md",
     "高等数学上/不定积分-计算.md",
     "高等数学下/曲线积分与曲面积分（三重积分）.md",
     "高等数学上/微分方程.md",
