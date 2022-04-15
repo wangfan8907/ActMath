@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "题型归纳/积分及其应用/未命名.md",
-            "mode": "source"
+            "file": "题型归纳/积分及其应用/积分计算.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "题型归纳/积分及其应用/未命名.md",
+                "file": "题型归纳/积分及其应用/积分计算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
   },
   "active": "90b7b4b32cddfef4",
   "lastOpenFiles": [
-    "题型归纳/积分及其应用/未命名.md",
+    "题型归纳/积分及其应用/积分计算.md",
     "题型归纳/导数与微分学/微分学及其应用.md",
     "题型归纳/导数与微分学/导数计算.md",
     "题型归纳/极限与连续/极限概念及其延伸.md",
