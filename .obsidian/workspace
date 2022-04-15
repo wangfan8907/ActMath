@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "题型归纳/导数与微分学/微分学及其应用.md",
+            "file": "题型归纳/积分及其应用/未命名.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "题型归纳/导数与微分学/微分学及其应用.md",
+                "file": "题型归纳/积分及其应用/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "90b7b4b32cddfef4",
   "lastOpenFiles": [
+    "题型归纳/积分及其应用/未命名.md",
     "题型归纳/导数与微分学/微分学及其应用.md",
     "题型归纳/导数与微分学/导数计算.md",
     "题型归纳/极限与连续/极限概念及其延伸.md",
@@ -96,7 +97,6 @@
     "高等数学上/微分方程.md",
     "高等数学上/定积分及其性质.md",
     "高等数学上/导数与微分.md",
-    "高等数学上/函数连续与极限.md",
-    "高等数学上/中值定理与微分性质.md"
+    "高等数学上/函数连续与极限.md"
   ]
 }
