@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "90b7b4b32cddfef4",
+        "id": "0a243a063f2c159a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "题型归纳/多元微分学/题型.md",
+            "file": "速查表.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "题型归纳/多元微分学/题型.md",
+                "file": "速查表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,10 +86,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "90b7b4b32cddfef4",
+  "active": "0a243a063f2c159a",
   "lastOpenFiles": [
-    "题型归纳/多元微分学/题型.md",
     "速查表.md",
+    "题型归纳/多元微分学/题型.md",
     "高等数学下/曲线积分与曲面积分（三重积分）.md",
     "题型归纳/级数/题型.md",
     "题型归纳/级数/Index.md",
