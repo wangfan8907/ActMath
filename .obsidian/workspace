@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "题型归纳/多元微分学/题型.md",
+            "file": "速查表.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "题型归纳/多元微分学/题型.md",
+                "file": "速查表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "90b7b4b32cddfef4",
   "lastOpenFiles": [
+    "速查表.md",
     "题型归纳/多元微分学/题型.md",
     "高等数学下/曲线积分与曲面积分（三重积分）.md",
     "题型归纳/级数/题型.md",
@@ -96,7 +97,6 @@
     "题型归纳/重积分曲线曲面积分/Index.md",
     "题型归纳/重积分曲线曲面积分/三重积分计算与技巧.md",
     "题型归纳/重积分曲线曲面积分/二重计算及技巧.md",
-    "题型归纳/重积分曲线曲面积分/二重计算及技巧.md",
-    "题型归纳/微分方程/计算类型.md"
+    "题型归纳/重积分曲线曲面积分/二重计算及技巧.md"
   ]
 }
